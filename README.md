@@ -26,7 +26,7 @@ You can only access this zone via unique password.
 
 # Where is all data stored?
 
-Keyri stores its data in a special file thanks to python's pickle module. Pickle is a module that allow users to write down data into binary files. It's well known that exchange data files could be easily read by humans if oppened. Binary files are way special. The are not that easy to read. They are almost unintelligible. If they are almost unreadable by humans imagine if we store double encrypted data into them. This data is stored in a special place in your Windows OS. 
+Keyri stores its data in a special file thanks to python's pickle module. Pickle is a module that allow users to write down data into binary files. It's well known that exchange data files could be easily read by humans if oppened. Binary files are way special. They are not that easy to read. They are almost unintelligible. If they are almost unreadable by humans imagine if we store double encrypted data into them. This data is stored in a special place in your Windows OS. 
 
 While I was studying system admin. I learned that there are several ways to set invisible some folders (directories). Keyri stores vital data from the user in a special folder morphed with steganography techniques. 
 
