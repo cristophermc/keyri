@@ -1,4 +1,4 @@
-# keyri
+# keyry
 
 ![logo](./logo/logo_background_removed.png)
 
