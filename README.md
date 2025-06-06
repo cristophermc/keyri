@@ -41,3 +41,7 @@ Yes, and yes! Keyri was designed for the community and was made for solving prob
 # Is there a way of helping?
 
 Of course! Keyri it's just an idea. You can port this program with your favourite programming language. 
+
+# Technical features
+
+Keyri tries to be simple, even with its functioning. It works with a kind of iceberg-cascade model. 
