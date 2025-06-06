@@ -11,7 +11,7 @@ Keyri is not just a simple password manager:
 - it allows users to store their passwords safely by its simple interface.
 - every password is double encrypted and salted to avoid brute force attacks.
 - you can store tons of passwords in categories you can create.
-- you can copy your decrypted passwords to your clipboard.
+- you can copy your decrypted passwords into your clipboard.
 - if you need more safety, you can make use of the "vault", a special logical layer where you can place your critical passwords. A user can make access to its personal vault via unique password.
 
 Once you download this project you need to create your account to register your credentials. Once you log in the main screen, you should be creating your first category or make use of your personal vault. 
